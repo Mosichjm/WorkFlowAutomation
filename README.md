@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-Workflow Automation is a lightweight, flexible security scanning orchestrator that automates the execution of multiple reconnaissance and vulnerability assessment tools in a coordinated pipeline. Designed for bug bounty hunters, penetration testers, and security researchers who need to run multiple tools sequentially without manual intervention.
+Workflow Automation is a lightweight, flexible security scanning orchestrator that automates the execution of unlimited reconnaissance and vulnerability assessment tools in a coordinated pipeline. Designed for bug bounty hunters, penetration testers, and security researchers who need to run multiple tools sequentially without manual intervention.
 
 ## 🎯 Purpose
 
