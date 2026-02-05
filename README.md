@@ -787,7 +787,7 @@ MIT License - Free to use in commercial and open-source projects
 
 ## 👨‍💻 Author
 
-Created for security professionals who value automation and efficiency in their reconnaissance workflows.
+mansredfire
 
 ## 🙏 Acknowledgments
 
