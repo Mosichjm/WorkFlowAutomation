@@ -584,7 +584,7 @@ Demonstrate security tool workflows to students and junior security analysts.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/workflow-automation.git
+git clone https://github.com/mansredfire/workflow-automation.git
 cd workflow-automation
 
 # No pip install required!
